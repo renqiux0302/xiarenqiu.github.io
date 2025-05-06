@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/xiarenqiu.github.io/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/xiarenqiu.github.io/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/xiarenqiu.github.io/#-publications"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/xiarenqiu.github.io/#-educations"
 
   #- title: "Invited Talks"
   #  url: "/#-invited-talks"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/xiarenqiu.github.io/#-internships"
