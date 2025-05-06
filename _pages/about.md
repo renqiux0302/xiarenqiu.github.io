@@ -22,7 +22,8 @@ redirect_from:
 <h2>About Me</h2>
 
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-  I am current a third-year Ph.D. student (Sep. 2022 - Jun. 2027, expected) in the School of Information Science and Technology, Fudan University, supervised by Prof. <a href="https://eetchen.github.io/">Tao Chen</a>. I am also fortunate to work closely with Dr. <a hred="https://bobrown.github.io/boZhang.github.io/">Bo Zhang</a> from Shanghai AI Lab. Before this, I obtained my Bachelor’s degree in Electronic Engineering also from Fudan University (Sep. 2018 - Jun. 2022). I work in the fields of deep learning and computer vision, with particular focuses on 3D perception, transfer learning, multi-modal LLM. My research pursues to develop vision-language systems that possess the capacity to comprehend, reason, and envision the physical world and explore using AI for scientific discovery. 
+  I am final-year Ph.D. student majoring in Computer Science at Shanghai Jiao Tong University, under the supervision of Professor Weijia Jia. I am also honored to be guided by Dr. Bo Zhang from the Shanghai Artificial Intelligence Laboratory.
+My research focuses on large language models, multimodal learning, and AIGC. I've delved in document understanding and chart analysis using multimodal large language models, along with mathematical reasoning with formal languages. I'm also exploring how multi-agent systems can drive automated scientific research.
   </div>
 </div>
 
@@ -307,11 +308,6 @@ Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, **<u>Jiakang Yuan</u>**, 
   });
 </script>
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-<div style='margin-top: 30pt'></div>
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D. Candidate, School of Information Science and Technology, [Fudan University](https://www.fudan.edu.cn/). 
@@ -319,20 +315,13 @@ Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, **<u>Jiakang Yuan</u>**, 
 
 <div style='margin-top: 30pt'></div>
 
-# 💬 Invited Talks
-- *2023.09*, Invited talk of **Effcient Pre-training of Autonomous Driving**. [[Video]](https://www.bilibili.com/video/BV1e8411C7ZK/?spm_id_from=333.337.search-card.all.click&vd_source=478510f65af6875433547b21fe148987)
-- *2023.07*, Invited talk of **Towards 3D General Representation** at Techbeat. [[Video]](https://www.techbeat.net/talk-info?id=795)
-- *2023.03*, Invited talk of **Transferable of Autonomous Driving**. [[Video]](https://www.bilibili.com/video/BV1Vo4y1b7pS/?spm_id_from=333.337.search-card.all.click)
-
-<div style='margin-top: 30pt'></div>
 
 # 💻 Internships
 
 - *2024.10 - Now*, [Shanghai AI Laboratory](), China.
-- *2022.08 - 2024.02*, [Shanghai AI Laboratory](), China.
 
 <div style='margin-top: 30pt'></div>
 
 # 📝 Academic Services
 
-- Reviewer of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, T-IP, T-CSVT, T-MM.
+- Reviewer of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, KDD, TKDE.
