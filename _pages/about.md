@@ -19,7 +19,7 @@ redirect_from:
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
 
-<h2>About Me</h2>
+<h2 id="about-me">About Me</h2>
 
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
   I am final-year Ph.D. student majoring in Computer Science at Shanghai Jiao Tong University, under the supervision of Professor Weijia Jia. I am also honored to be guided by Dr. Bo Zhang from the Shanghai Artificial Intelligence Laboratory.
@@ -29,7 +29,7 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 
 <div style='margin-top: 30pt'></div>
 
-# 🔥 News
+<h2 id="-news"># 🔥 News</h2>
   - <p style='text-align:justify'><i>2025.02</i>: &nbsp;🎉🎉 One paper (CDM) is accepted by <font color="red">CVPR 2025</font>. </p>
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <font color="red">ICLR 2025</font>.</p>
   - <p style='text-align:justify'><i>2023.12</i>: &nbsp;🎉🎉 One paper (LaTexNet) is accepted by <font color="red">ICASSP 2025</font>. </p>
@@ -42,7 +42,7 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 
 
 
-# 📝 Selected Publications & Preprints
+<h2 id="-publications"># 📝 Selected Publications & Preprints</h2>
 
 <style>
 .toggleButton {
@@ -258,7 +258,7 @@ Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Jiakang Yuan, Hongbin Zho
 </script>
 
 
-# 📖 Educations
+<h2 id="-educations"># 📖 Educations</h2>
 - *2021.04 - Now*, Ph.D in Computer Science, Shanghai Jiao Tong University. 
 - *2019.02 - 2020.12*, Master in Electrical Engineering (Distinction), University of Melbourne.
 - *2014.09 - 2018.06*, Bachelor in Instrument for Measurement & Control (Pilot Program), Jilin University.
@@ -266,7 +266,7 @@ Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Jiakang Yuan, Hongbin Zho
 <div style='margin-top: 30pt'></div>
 
 
-# 💻 Internships
+<h2 id="-internships"># 💻 Internships</h2>
 
 - *2024.10 - Now*, [Shanghai AI Laboratory](), China.
 
