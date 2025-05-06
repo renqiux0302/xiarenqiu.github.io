@@ -80,7 +80,7 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 
 [GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training](https://arxiv.org/pdf/2412.11863v1)
 
-**<u>Renqiu Xia<u>**<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Hancheng Ye, Wenjie Wu, Hongbin Zhou, Jiakang Yuan, Tianshuo Peng, Xinyu Cai, Xiangchao Yan, Bin Wang, Conghui He, Botian Shi, Tao Chen, Junchi Yan, Bo Zhang
+**<u>Renqiu Xia</u>**<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Hancheng Ye, Wenjie Wu, Hongbin Zhou, Jiakang Yuan, Tianshuo Peng, Xinyu Cai, Xiangchao Yan, Bin Wang, Conghui He, Botian Shi, Tao Chen, Junchi Yan, Bo Zhang
 
 [[**Project**]]()[[**Paper**]](https://arxiv.org/pdf/2412.11863v1)
 - Propose GeoX, a multi-modal large model focusing on geometric understanding and reasoning tasks which reveals the large potential of formalized visual-language pre-training in enhancing geometric problem-solving abilities.
@@ -92,7 +92,7 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 
 [Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy]()
 
-Hancheng Ye<sup>\*</sup>, Jiakang Yuan<sup>\*</sup>**, **<u>Renqiu Xia<u>**, Xiangchao Yan, Tao Chen, Junchi Yan, Botian Shi, Bo Zhang
+Hancheng Ye<sup>\*</sup>, Jiakang Yuan<sup>\*</sup>**, **<u>Renqiu Xia</u>**, Xiangchao Yan, Tao Chen, Junchi Yan, Botian Shi, Bo Zhang
 
 [[**Project**]](https://jiakangyuan.github.io/AdaptiveDiffusion-project-page/)[[**Paper**]]()
 - Propose AdaptiveDiffusion to adaptively reduce the noise prediction steps during the denoising proces guided by the third-order latent difference. 
@@ -104,7 +104,7 @@ Hancheng Ye<sup>\*</sup>, Jiakang Yuan<sup>\*</sup>**, **<u>Renqiu Xia<u>**, Xia
 
 [ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation](https://arxiv.org/abs/2309.05527)
 
-Bo Zhang<sup>\*</sup>, Xinyu Cai<sup>\*</sup>, Jiakang Yuan, Donglin Yang, Jianfei Guo, Xiangchao Yan, **<u>Renqiu Xia<u>**, Botian Shi, Min Dou, Tao Chen, Si Liu, Junchi Yan, Yu Qiao
+Bo Zhang<sup>\*</sup>, Xinyu Cai<sup>\*</sup>, Jiakang Yuan, Donglin Yang, Jianfei Guo, Xiangchao Yan, **<u>Renqiu Xia</u>**, Botian Shi, Min Dou, Tao Chen, Si Liu, Junchi Yan, Yu Qiao
 
 [[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2309.05527)
 - Provide a new perspective and approach of alleviating the domain shifts, by proposing a Reconstruction-Simulation-Perception scheme.
@@ -120,7 +120,7 @@ Bo Zhang<sup>\*</sup>, Xinyu Cai<sup>\*</sup>, Jiakang Yuan, Donglin Yang, Jianf
 
 [SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing](https://arxiv.org/abs/2503.04629)
 
-Xiangchao Yan<sup>\*</sup>, Shiyang Feng<sup>\*</sup>, Jiakang Yuan, **<u>Renqiu Xia<u>**, Bin Wang, Bo Zhang, Lei Bai
+Xiangchao Yan<sup>\*</sup>, Shiyang Feng<sup>\*</sup>, Jiakang Yuan, **<u>Renqiu Xia</u>**, Bin Wang, Bo Zhang, Lei Bai
 
 [[**Project**]](https://github.com/Alpha-Innovator/SurveyForge)[[**Paper**]](https://arxiv.org/abs/2503.04629)
 - Propose SurveyForge which can automatically generate and refine the content of survey.
@@ -132,7 +132,7 @@ Xiangchao Yan<sup>\*</sup>, Shiyang Feng<sup>\*</sup>, Jiakang Yuan, **<u>Renqiu
 
 [Chimera: Improving Generalist Model with Domain-Specific Experts](https://arxiv.org/abs/2412.05983)
 
-Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Jiakang Yuan, Hongbin Zhou, **<u>Renqiu Xia<u>**, Renrui Zhang, Lei Bai, Song Mao, Bin Wang, Aojun Zhou, Botian Shi, Tao Chen, Bo Zhang, Xiangyu Yue
+Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Jiakang Yuan, Hongbin Zhou, **<u>Renqiu Xia</u>**, Renrui Zhang, Lei Bai, Song Mao, Bin Wang, Aojun Zhou, Botian Shi, Tao Chen, Bo Zhang, Xiangyu Yue
 
 [[**Project**]](https://alpha-innovator.github.io/chimera_page/)[[**Paper**]](https://arxiv.org/abs/2412.05983)
 - a scalable and low-cost multi-modal pipeline designed to boost the ability of existing LMMs with domain-specific experts.
