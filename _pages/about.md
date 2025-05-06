@@ -29,7 +29,7 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 
 <div style='margin-top: 30pt'></div>
 
-<h2 id="-news"># 🔥 News</h2>
+<h2 id="-news">🔥 News</h2>
   - <p style='text-align:justify'><i>2025.02</i>: &nbsp;🎉🎉 One paper (CDM) is accepted by <font color="red">CVPR 2025</font>. </p>
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <font color="red">ICLR 2025</font>.</p>
   - <p style='text-align:justify'><i>2023.12</i>: &nbsp;🎉🎉 One paper (LaTexNet) is accepted by <font color="red">ICASSP 2025</font>. </p>
@@ -265,7 +265,7 @@ Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Jiakang Yuan, Hongbin Zho
 
 <h2 id="-internships">💻 Internships</h2>
 
-- *2024.10 - Now*, [Shanghai AI Laboratory](), China.
+- *2024.10 - Now*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
 
 <div style='margin-top: 30pt'></div>
 
