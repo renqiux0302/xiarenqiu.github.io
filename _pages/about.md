@@ -42,7 +42,7 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 
 
 
-# 📝 Publications & Preprints
+# 📝 Selected Publications & Preprints
 
 <style>
 .toggleButton {
@@ -164,6 +164,18 @@ Bo Zhang<sup>\*</sup>, Xinyu Cai<sup>\*</sup>, Jiakang Yuan, Donglin Yang, Jianf
 <!-- Preprints -->
 <div id="preprints" style="display: none; margin-top: 10px;">
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/trustgeogen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TrustGeoGen: Scalable and Formal-Verified Data Engine for Trustworthy Multi-modal Geometric Problem Solving](https://arxiv.org/pdf/2504.15780)
+
+Daocheng Fu<sup>\*</sup>, Zijun Chen<sup>\*</sup>, **<u>Renqiu Xia</u>**<sup>\*</sup>, Qi Liu, Yuan Feng, Hongbin Zhou, Renrui Zhang, Shiyang Feng, Peng Gao, Junchi Yan, Botian Shi, Bo Zhang, Yu Qiao
+
+[[**Project**]]()[[**Paper**]](https://arxiv.org/pdf/2504.15780)
+-  propose a scalable data engine called TrustGeoGen for geometric problem generation, with formal verification to provide a principled benchmark.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/surveyforge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -185,6 +197,42 @@ Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Jiakang Yuan, Hongbin Zho
 
 [[**Project**]](https://alpha-innovator.github.io/chimera_page/)[[**Paper**]](https://arxiv.org/abs/2412.05983)
 - a scalable and low-cost multi-modal pipeline designed to boost the ability of existing LMMs with domain-specific experts.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/docgenome.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Language Models](https://arxiv.org/pdf/2406.11633)
+
+**<u>Renqiu Xia</u>**<sup>\*</sup>, Song Mao<sup>\*</sup>, Xiangchao Yan<sup>\*</sup>, Hongbin Zhou, Bo Zhang, Haoyang Peng, Jiahao Pi, Daocheng Fu, Wenjie Wu, Hancheng Ye, Shiyang Feng, Bin Wang, Chao Xu, Conghui He, Pinlong Cai, Min Dou, Botian Shi, Sheng Zhou, Yongwei Wang, Bin Wang, Junchi Yan, Fei Wu, Yu Qiao
+
+[[**Project**]](https://github.com/Alpha-Innovator/DocGenome)[[**Paper**]](https://arxiv.org/pdf/2406.11633)
+- present DocGenome, a structured document benchmark constructed by annotating 500K scientific documents from 153 disciplines in the arXiv open-access community, using our custom auto-labeling pipeline.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/chartx.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning](https://arxiv.org/pdf/2402.12185)
+
+**<u>Renqiu Xia</u>**<sup>\*</sup>, Bo Zhang<sup>\*</sup>, Hancheng Ye<sup>\*</sup>, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Peng Ye, Min Dou, Botian Shi, Junchi Yan, Yu Qiao
+
+[[**Project**]](https://github.com/Alpha-Innovator/ChartVLM)[[**Paper**]](https://arxiv.org/pdf/2402.12185)
+- construct ChartX, a multi-modal evaluation set covering 18 chart types and develop ChartVLM to offer a new perspective on handling multi-modal tasks that strongly depend on interpretable patterns.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/structchart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[StructChart: On the Schema, Metric, and Augmentation for Visual Chart Understanding](https://arxiv.org/pdf/2309.11268)
+
+**<u>Renqiu Xia</u>**<sup>\*</sup>, Haoyang Peng, Hancheng Ye, Mingsheng Li, Xiangchao Yan, Peng Ye, Botian Shi, Yu Qiao, Junchi Yan, Bo Zhang
+
+[[**Project**]]()[[**Paper**]](https://arxiv.org/pdf/2309.11268)
+- introduce StructChart, a novel framework that leverages Structured Triplet Representations (STR) to achieve a unified and label-efficient approach to chart perception and reasoning tasks.
 </div>
 </div>
 
