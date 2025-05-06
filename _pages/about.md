@@ -92,7 +92,7 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 
 [Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy]()
 
-Hancheng Ye<sup>\*</sup>, Jiakang Yuan<sup>\*</sup>**, **<u>Renqiu Xia</u>**, Xiangchao Yan, Tao Chen, Junchi Yan, Botian Shi, Bo Zhang
+Hancheng Ye<sup>\*</sup>, Jiakang Yuan<sup>\*</sup>, **<u>Renqiu Xia</u>**, Xiangchao Yan, Tao Chen, Junchi Yan, Botian Shi, Bo Zhang
 
 [[**Project**]](https://jiakangyuan.github.io/AdaptiveDiffusion-project-page/)[[**Paper**]]()
 - Propose AdaptiveDiffusion to adaptively reduce the noise prediction steps during the denoising proces guided by the third-order latent difference. 
@@ -108,6 +108,7 @@ Bo Zhang<sup>\*</sup>, Xinyu Cai<sup>\*</sup>, Jiakang Yuan, Donglin Yang, Jianf
 
 [[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2309.05527)
 - Provide a new perspective and approach of alleviating the domain shifts, by proposing a Reconstruction-Simulation-Perception scheme.
+</div>
 </div>
 </div>
 <div style='margin-top: 30pt'></div>
