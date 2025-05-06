@@ -30,16 +30,13 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 <div style='margin-top: 30pt'></div>
 
 # 🔥 News
-  - <p style='text-align:justify'><i>2025.2</i>: &nbsp;🎉🎉 One paper (CST-Stereo) is accepted by <font color="red">CVPR 2025</font>. CST-Stereo introduce a unified self-training framework for iterative-based stereo matching models. </p>
-  - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <font color="red">ICLR 2025</font>. GeoX reveals the large potential of formalized visual-language pre-training in enhancing geometric problem-solving abilities. </p>
-  - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (AIOStereo) is accepted by <font color="red">AAAI 2025</font>. AIOStereo can transfer knowledge from multiple vision foundation models into a single stereo matching model flexibly.</p>
-  - <p style='text-align:justify'><i>2024.10</i>: &nbsp;🎉🎉 I recieve the <font color="red">national scholarship</font>. </p>
-  - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 Two papers (AdaptiveDiffusion and 3DET-Mamba) are accepted by <font color="red">NeurIPS 2024</font>. One is about training-free acceleration of diffusion model, another is about mamba architecture in 3D detection.</p>
-  - <p style='text-align:justify'><i>2024.07</i>: &nbsp;🎉🎉 One paper (Reg-TTA3D) is accepted by <font color="red">ECCV 2024</font>. We explore test-time adaptive 3d object detection for the first time.</p>
-  - <p style='text-align:justify'><i>2024.01</i>: &nbsp;🎉🎉 One paper (ReSimAD) is accepted by <font color="red">ICLR 2024</font>. We propose a zero-shot generalization framework by reconstructing mesh and simulating target point clouds.</p>
-  - <p style='text-align:justify'><i>2023.09</i>: &nbsp;🎉🎉 One Paper (AD-PT) is accepted by <font color="red">NeurIPS 2023</font>.We explore 3D pre-training pipeline to obtain backbones with strong generalization capability.</p>
-  - <p style='text-align:justify'><i>2023.02</i>: &nbsp;🎉🎉 Two Papers (Bi3D and Uni3D) are accepted by <font color="red">CVPR 2023</font>. One is about active domain adaptation for 3D object detection, another is about multi-dataset training for 3d object detection.</p>
-  - <p style='text-align:justify'><i>2022.07</i>: &nbsp;🎉🎉 One Paper (HelixFormer) is accepted by <font color="red">ACM'MM 2022</font>. We explore Transformer architecture on few-shot fine-grained classification task.</p>
+  - <p style='text-align:justify'><i>2025.02</i>: &nbsp;🎉🎉 One paper (CDM) is accepted by <font color="red">CVPR 2025</font>. </p>
+  - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <font color="red">ICLR 2025</font>.</p>
+  - <p style='text-align:justify'><i>2023.12</i>: &nbsp;🎉🎉 One paper (LaTexNet) is accepted by <font color="red">ICASSP 2025</font>. </p>
+  - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 One papers (AdaptiveDiffusion) is accepted by <font color="red">NeurIPS 2024</font>. </p>
+  - <p style='text-align:justify'><i>2024.07</i>: &nbsp;🎉🎉 One paper (Once-for-Both) is accepted by <font color="red">CVPR 2024</font>. </p>
+  - <p style='text-align:justify'><i>2024.01</i>: &nbsp;🎉🎉 One paper (ReSimAD) is accepted by <font color="red">ICLR 2024</font>. </p>
+  - <p style='text-align:justify'><i>2023.12</i>: &nbsp;🎉🎉 One paper (EASInst) is accepted by <font color="red">ICASSP 2024</font>. </p>
 
 <div style='margin-top: 30pt'></div>
 
@@ -77,18 +74,6 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 
 <div id="publications" style="display: block; margin-top: 10px;">
 <!-- publications -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cststereo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Consistency-aware Self-Training for Iterative-based Stereo Matching]()
-
-Jingyi Zhou<sup>\*</sup>, Peng Ye<sup>\*</sup>, Haoyu Zhang, **<u>Jiakang Yuan</u>** (Project Leader), Qiang Rao, YangChenXu Liu, Cailin Wu, Feng Xu, Tao Chen
-
-[[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2503.23747)
-- Propose CST-Stereo, which achieves impressive results in various scenarios, including in domain, domain adaptive and domain generalization,
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/geox.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -99,18 +84,6 @@ Renqiu Xia<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Hancheng Ye, Wenjie Wu, Hong
 
 [[**Project**]]()[[**Paper**]](https://arxiv.org/pdf/2412.11863v1)
 - Propose GeoX, a multi-modal large model focusing on geometric understanding and reasoning tasks which reveals the large potential of formalized visual-language pre-training in enhancing geometric problem-solving abilities.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aiostereo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[All-in-One: Transferring Vision Foundation Models into Stereo Matching](https://arxiv.org/abs/2412.09912)
-
-Jingyi Zhou<sup>\*</sup>, Haoyu Zhang<sup>\*</sup>, **<u>Jiakang Yuan</u>**<sup>\*</sup>, Peng Ye, Tao Chen, Hao Jiang, Meiya Chen, Yangyang Zhang
-
-[[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2412.09912)
-- Propose AIOStereo to flexibly select and transfer knowledge from multiple heterogeneous VFMs to a single stereo matching model. (<font color="red">Rank 1st</font> on [Middlebury Stereo Evaluation](https://vision.middlebury.edu/stereo/eval3/)) 
 </div>
 </div>
 
@@ -126,30 +99,6 @@ Hancheng Ye<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Renqiu Xia, Xian
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/3detmamba.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[3DET-Mamba: State Space Model for End-to-End 3D Object Detection]()
-
-Mingsheng Li<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Sijin Chen, Lin Zhang, Anyu Zhu, Xin Chen, Tao Chen
-
-[[**Project**]]()[[**Paper**]]()
-- Exploit the potential of Mamba architecture on 3D scene-level perception for the first time.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/regtta3d.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Reg-TTA3D: Better Regression Makes Better Test-time Adaptive 3D Object Detection]()
-
-**<u>Jiakang Yuan</u>**, Bo Zhang, Kaixiong Gong, Xiangyu Yue, Botian Shi, Yu Qiao, Tao Chen
-
-[[**Project**]]()[[**Paper**]]()
-- Explore a new task named test-time domain adaptive 3D object detection and propose a pseudo-label-based test-time adaptative 3D object detection method.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/resimad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -161,107 +110,10 @@ Bo Zhang<sup>\*</sup>, Xinyu Cai<sup>\*</sup>, **<u>Jiakang Yuan</u>**, Donglin 
 - Provide a new perspective and approach of alleviating the domain shifts, by proposing a Reconstruction-Simulation-Perception scheme.
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/adpt.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset](https://arxiv.org/abs/2306.00612)
-
-**<u>Jiakang Yuan</u>**, Bo Zhang, Xiangchao Yan, Tao Chen, Botian Shi, Yikang Li, Yu Qiao
-
-[[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2306.00612)
-- Build a large-scale pre-training point-cloud dataset with diverse data distribution, and meanwhile learn generalizable representations.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/bi3d.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection](https://arxiv.org/abs/2303.05886)
-
-**<u>Jiakang Yuan</u>**, Bo Zhang, Xiangchao Yan, Tao Chen, Botian Shi, Yikang Li, Yu Qiao
-
-[[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2303.05886)
-- Propose a Bi-domain active learning approach which select samples from both source and target domain to solve the cross-domain 3D object detection task.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/uni3d.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection](https://arxiv.org/abs/2303.06880)
-
-Bo Zhang, **<u>Jiakang Yuan</u>**, Botian Shi, Tao Chen, Yikang Li, Yu Qiao
-
-[[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2303.06880)
-- Present a Uni3D which tackle multi-dataset 3D object detection from data-level and semantic-level.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM'MM 2022</div><img src='images/helixformer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning Cross-Image Object Semantic Relation in Transformer for Few-Shot Fine-Grained Image Classification](https://arxiv.org/abs/2207.00784)
-
-Bo Zhang<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Baopu Li, Tao Chen, Jiayuan Fan, Botian Shi
-
-[[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2207.00784)
-- Propose a Transformer-based double-helix model to achieve the cross-image object semantic relation mining in a bidirectional and symmetrical manner.
-</div>
-</div>
-</div>
 <div style='margin-top: 30pt'></div>
 
 <!-- Preprints -->
 <div id="preprints" style="display: none; margin-top: 10px;">
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/omnicaptioner.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[OmniCaptioner: One Captioner to Rule Them All](https://arxiv.org/abs/2504.07089)
-
-Yiting Lu<sup>\*</sup>, **<u>Jiakang Yuan</u><sup>\*</sup>**, Zhen Li, Shitian Zhao, Qi Qin, Xinyue Li, Le Zhuo, Licheng Wen, Dongyang Liu, Yuewen Cao, Xiangchao Yan, Xin Li, Botian Shi, Tao Chen, Zhibo Chen, Lei Bai, Bo Zhang, Peng Gao
-
-[[**Project**]](https://alpha-innovator.github.io/OmniCaptioner-project-page/)[[**Paper**]](https://arxiv.org/abs/2504.07089)
-- Propose Omnicaption, an all-in-one visual to text mapping tool.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/lumina.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Lumina-Image 2.0: A Unified and Efficient Image Generative Framework](https://arxiv.org/abs/2503.21758)
-
-Qi Qin, Le Zhuo, Yi Xin, Ruoyi Du, Zhen Li, Bin Fu, Yiting Lu, **<u>Jiakang Yuan</u>**, Xinyue Li, Dongyang Liu, Xiangyang Zhu, Manyuan Zhang, Will Beddow, Erwann Millon, Victor Perez, Wenhai Wang, Conghui He, Bo Zhang, Xiaohong Liu, Hongsheng Li, Yu Qiao, Chang Xu, Peng Gao
-
-[[**Project**]](https://github.com/Alpha-VLLM/Lumina-Image-2.0)[[**Paper**]](https://arxiv.org/abs/2503.21758)
-- State-of-the-art text-to-image generation model.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/prototta.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Bidirectional Prototype-Reward co-Evolution for Test-Time Adaptation of Vision-Language Models](https://www.arxiv.org/abs/2503.09394)
-
-Xiaozhen Qiao, Peng Huang, **<u>Jiakang Yuan</u>**, Xianda Guo, Bowen Ye, Zhe Sun, Xuelong Li
-
-[[**Project**]](https://www.arxiv.org/abs/2503.09394)[[**Paper**]](https://www.arxiv.org/abs/2503.09394)
-- Novel TTA framework for VLMs.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/dolphin.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback](https://arxiv.org/pdf/2501.03916)
-
-**<u>Jiakang Yuan</u>**, Xiangchao Yan, Shiyang Feng, Bo Zhang, Tao Chen, Botian Shi, Wanli Ouyang, Yu Qiao, Lei Bai, Bowen Zhou
-
-[[**Project**]](https://alpha-innovator.github.io/Dolphin-project-page/)[[**Paper**]](https://arxiv.org/pdf/2501.03916)
-- Propose Dolphin, a closed-loop auto-research framework.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/surveyforge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -310,8 +162,9 @@ Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, **<u>Jiakang Yuan</u>**, 
 
 
 # 📖 Educations
-- *2022.09 - Now*, Ph.D. Candidate, School of Information Science and Technology, [Fudan University](https://www.fudan.edu.cn/). 
-- *2018.06 - 2022.06*, Bachelor Degree, School of Information Science and Technology, [Fudan University](https://www.fudan.edu.cn/). 
+- *2021.04 - Now*, Ph.D in Computer Science, Shanghai Jiao Tong University. 
+- *2019.02 - 2020.12*, Master in Electrical Engineering (Distinction), University of Melbourne.
+- *2014.09 - 2018.06*, Bachelor in Instrument for Measurement & Control (Pilot Program), Jilin University.
 
 <div style='margin-top: 30pt'></div>
 
