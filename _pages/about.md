@@ -19,8 +19,7 @@ redirect_from:
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt'>
 
-<h2 id="about-me"></h2>
-<h2>About Me</h2>
+<h2 id="about-me">About Me</h2>
 
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
   I am final-year Ph.D. student majoring in Computer Science at Shanghai Jiao Tong University, under the supervision of Professor Weijia Jia. I am also honored to be guided by Dr. Bo Zhang from the Shanghai Artificial Intelligence Laboratory.
@@ -42,8 +41,7 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 <div style='margin-top: 30pt'></div>
 
 
-<h2 id="-publications"></h2>
-# 📝 Selected Publications & Preprints
+<h2 id="-publications">📝 Selected Publications & Preprints</h2>
 
 <style>
 .toggleButton {
@@ -258,16 +256,14 @@ Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Jiakang Yuan, Hongbin Zho
   });
 </script>
 
-<h2 id="-educations"></h2>
-# 📖 Educations
+<h2 id="-educations">📖 Educations</h2>
 - *2021.04 - Now*, Ph.D in Computer Science, Shanghai Jiao Tong University. 
 - *2019.02 - 2020.12*, Master in Electrical Engineering (Distinction), University of Melbourne.
 - *2014.09 - 2018.06*, Bachelor in Instrument for Measurement & Control (Pilot Program), Jilin University.
 
 <div style='margin-top: 30pt'></div>
 
-<h2 id="-internships"></h2>
-# 💻 Internships
+<h2 id="-internships">💻 Internships</h2>
 
 - *2024.10 - Now*, [Shanghai AI Laboratory](), China.
 
