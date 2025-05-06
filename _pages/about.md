@@ -74,6 +74,18 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 
 <div id="publications" style="display: block; margin-top: 10px;">
 <!-- publications -->
+  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cdm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Image Over Text: Transforming Formula Recognition Evaluation with Character Detection Matching](https://arxiv.org/pdf/2409.03643)
+
+Bin Wang<sup>\*</sup>, Fan Wu<sup>\*</sup>, Linke Ouyang<sup>\*</sup>, Zhuangcheng Gu, Rui Zhang, **<u>Renqiu Xia</u>**, Botian Shi, Bo Zhang, Conghui He
+
+[[**Project**]]()[[**Paper**]](https://arxiv.org/pdf/2409.03643)
+- propose a Character Detection Matching (CDM) metric, ensuring the evaluation objectivity by designing an image-level rather than a LaTeX-level metric score. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/geox.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -87,15 +99,39 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/latexnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LaTeXNet: A Specialized Model for Converting Visual Tables and Equations to LaTeX Code](https://ieeexplore.ieee.org/document/10887698)
+
+**<u>Renqiu Xia</u>**, Hongbin Zhou, Ziming Feng, Huanxi Liu, Boan Chen, Bo Zhang, Junchi Yan
+
+[[**Project**]]()[[**Paper**]](https://ieeexplore.ieee.org/document/10887698)
+- propose LaTeXNet, a specialized model designed to automate the conversion of visual tables and equations into LaTeX code. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/adaptivediffusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy]()
+[Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy](https://arxiv.org/pdf/2410.09873)
 
 Hancheng Ye<sup>\*</sup>, Jiakang Yuan<sup>\*</sup>, **<u>Renqiu Xia</u>**, Xiangchao Yan, Tao Chen, Junchi Yan, Botian Shi, Bo Zhang
 
-[[**Project**]](https://jiakangyuan.github.io/AdaptiveDiffusion-project-page/)[[**Paper**]]()
+[[**Project**]](https://jiakangyuan.github.io/AdaptiveDiffusion-project-page/)[[**Paper**]](https://arxiv.org/pdf/2410.09873)
 - Propose AdaptiveDiffusion to adaptively reduce the noise prediction steps during the denoising proces guided by the third-order latent difference. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/once-for-both.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression](https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Once_for_Both_Single_Stage_of_Importance_and_Sparsity_Search_CVPR_2024_paper.pdf)
+
+Hancheng Ye, Chong Yu, Peng Ye, **<u>Renqiu Xia</u>**, Yansong Tang, Jiwen Lu, Tao Chen, Bo Zhang
+
+[[**Project**]]()[[**Paper**]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Once_for_Both_Single_Stage_of_Importance_and_Sparsity_Search_CVPR_2024_paper.pdf)
+- Propose OFB, a cost-efficient approach that simultaneously evaluates both importance and sparsity scores for VTC. 
 </div>
 </div>
 
@@ -108,6 +144,18 @@ Bo Zhang<sup>\*</sup>, Xinyu Cai<sup>\*</sup>, Jiakang Yuan, Donglin Yang, Jianf
 
 [[**Project**]]()[[**Paper**]](https://arxiv.org/abs/2309.05527)
 - Provide a new perspective and approach of alleviating the domain shifts, by proposing a Reconstruction-Simulation-Perception scheme.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/easinst.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Efficient Architecture Search for Real-Time Instance Segmentation](https://ieeexplore.ieee.org/document/10446079)
+
+**<u>Renqiu Xia</u>**, Dongyuan Zhang, Yixin Dong, Juanping Zhao, Wenlong Liao, Tao He, Junchi Yan
+
+[[**Project**]]()[[**Paper**]](https://ieeexplore.ieee.org/document/10446079)
+- propose EASInst，an efficient framework that discover practical backbone and encoder architectures for the improved sparse activation instance segmentation model. 
 </div>
 </div>
 </div>
