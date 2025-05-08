@@ -29,7 +29,7 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 50pt; color: #cc0000;'>
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-  <br style="margin-top: 20px"> 
+  <br style="margin-top: 8px"> 
   I am delighted to join the School of Artificial Intelligence at Shanghai Jiao Tong University as a Tenure-track Assistant Professor, focusing on multimodal reasoning models with applications in plane geometry reasoning, formal mathematical reasoning, and physics problem modeling, etc. I am now recruiting PhD/Master students (since 2026), research assistants, and interns who possess a solid background in machine learning/mathematics/physics, strong programming skills, and a passion for tackling AI-driven logical reasoning challenges. If you are self-motivated to explore cutting-edge research in symbolic AI and Multi-modal reasoning model, please email your CV and research interests to <a href="mailto:xiarenqiu@sjtu.edu.cn">xiarenqiu@sjtu.edu.cn</a>. Let's collaborate to push the boundaries of AI reasoning!
   </div>
   
