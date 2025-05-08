@@ -168,7 +168,7 @@ Bo Zhang<sup>\*</sup>, Xinyu Cai<sup>\*</sup>, Jiakang Yuan, Donglin Yang, Jianf
 
 [Beyond Theorem Proving: Formulation, Framework and Benchmark for Formal Problem-Solving](https://arxiv.org/pdf/2505.04528)
 
-Qi Liu, Xinhao Zheng, **<u>Renqiu Xia</u>**, Xingzhi Qi, Qinxiang Cao∗, Junchi Yan
+Qi Liu, Xinhao Zheng, **<u>Renqiu Xia</u>**, Xingzhi Qi, Qinxiang Cao, Junchi Yan
 
 [[**Project**]](https://github.com/Purewhite2019/formal_problem_solving_main)[[**Paper**]](https://arxiv.org/pdf/2505.04528)
 -  Propose a novel framework, FPS (Formal Problem-Solving), which utilizes existing FTP (formal theorem proving) environments to perform process-verified problem-solving.
