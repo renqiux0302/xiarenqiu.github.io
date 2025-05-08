@@ -82,7 +82,7 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 Bin Wang<sup>\*</sup>, Fan Wu<sup>\*</sup>, Linke Ouyang<sup>\*</sup>, Zhuangcheng Gu, Rui Zhang, **<u>Renqiu Xia</u>**, Botian Shi, Bo Zhang, Conghui He
 
 [[**Project**]]()[[**Paper**]](https://arxiv.org/pdf/2409.03643)
-- propose a Character Detection Matching (CDM) metric, ensuring the evaluation objectivity by designing an image-level rather than a LaTeX-level metric score. 
+- Propose a Character Detection Matching (CDM) metric, ensuring the evaluation objectivity by designing an image-level rather than a LaTeX-level metric score. 
 </div>
 </div>
 
@@ -106,7 +106,7 @@ Bin Wang<sup>\*</sup>, Fan Wu<sup>\*</sup>, Linke Ouyang<sup>\*</sup>, Zhuangche
 **<u>Renqiu Xia</u>**, Hongbin Zhou, Ziming Feng, Huanxi Liu, Boan Chen, Bo Zhang, Junchi Yan
 
 [[**Project**]]()[[**Paper**]](https://ieeexplore.ieee.org/document/10887698)
-- propose LaTeXNet, a specialized model designed to automate the conversion of visual tables and equations into LaTeX code. 
+- Propose LaTeXNet, a specialized model designed to automate the conversion of visual tables and equations into LaTeX code. 
 </div>
 </div>
 
@@ -154,7 +154,7 @@ Bo Zhang<sup>\*</sup>, Xinyu Cai<sup>\*</sup>, Jiakang Yuan, Donglin Yang, Jianf
 **<u>Renqiu Xia</u>**, Dongyuan Zhang, Yixin Dong, Juanping Zhao, Wenlong Liao, Tao He, Junchi Yan
 
 [[**Project**]]()[[**Paper**]](https://ieeexplore.ieee.org/document/10446079)
-- propose EASInst，an efficient framework that discover practical backbone and encoder architectures for the improved sparse activation instance segmentation model. 
+- Propose EASInst，an efficient framework that discover practical backbone and encoder architectures for the improved sparse activation instance segmentation model. 
 </div>
 </div>
 </div>
@@ -171,7 +171,7 @@ Bo Zhang<sup>\*</sup>, Xinyu Cai<sup>\*</sup>, Jiakang Yuan, Donglin Yang, Jianf
 Daocheng Fu<sup>\*</sup>, Zijun Chen<sup>\*</sup>, **<u>Renqiu Xia</u>**<sup>\*</sup>, Qi Liu, Yuan Feng, Hongbin Zhou, Renrui Zhang, Shiyang Feng, Peng Gao, Junchi Yan, Botian Shi, Bo Zhang, Yu Qiao
 
 [[**Project**]]()[[**Paper**]](https://arxiv.org/pdf/2504.15780)
--  propose a scalable data engine called TrustGeoGen for geometric problem generation, with formal verification to provide a principled benchmark.
+-  Propose a scalable data engine called TrustGeoGen for geometric problem generation, with formal verification to provide a principled benchmark.
 </div>
 </div>
 
@@ -207,7 +207,7 @@ Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Jiakang Yuan, Hongbin Zho
 **<u>Renqiu Xia</u>**<sup>\*</sup>, Song Mao<sup>\*</sup>, Xiangchao Yan<sup>\*</sup>, Hongbin Zhou, Bo Zhang, Haoyang Peng, Jiahao Pi, Daocheng Fu, Wenjie Wu, Hancheng Ye, Shiyang Feng, Bin Wang, Chao Xu, Conghui He, Pinlong Cai, Min Dou, Botian Shi, Sheng Zhou, Yongwei Wang, Bin Wang, Junchi Yan, Fei Wu, Yu Qiao
 
 [[**Project**]](https://github.com/Alpha-Innovator/DocGenome)[[**Paper**]](https://arxiv.org/pdf/2406.11633)
-- present DocGenome, a structured document benchmark constructed by annotating 500K scientific documents from 153 disciplines in the arXiv open-access community, using our custom auto-labeling pipeline.
+- Present DocGenome, a structured document benchmark constructed by annotating 500K scientific documents from 153 disciplines in the arXiv open-access community, using our custom auto-labeling pipeline.
 </div>
 </div>
 
@@ -219,7 +219,7 @@ Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Jiakang Yuan, Hongbin Zho
 **<u>Renqiu Xia</u>**<sup>\*</sup>, Bo Zhang<sup>\*</sup>, Hancheng Ye<sup>\*</sup>, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Peng Ye, Min Dou, Botian Shi, Junchi Yan, Yu Qiao
 
 [[**Project**]](https://github.com/Alpha-Innovator/ChartVLM)[[**Paper**]](https://arxiv.org/pdf/2402.12185)
-- construct ChartX, a multi-modal evaluation set covering 18 chart types and develop ChartVLM to offer a new perspective on handling multi-modal tasks that strongly depend on interpretable patterns.
+- Construct ChartX, a multi-modal evaluation set covering 18 chart types and develop ChartVLM to offer a new perspective on handling multi-modal tasks that strongly depend on interpretable patterns.
 </div>
 </div>
 
@@ -231,7 +231,7 @@ Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Jiakang Yuan, Hongbin Zho
 **<u>Renqiu Xia</u>**<sup>\*</sup>, Haoyang Peng, Hancheng Ye, Mingsheng Li, Xiangchao Yan, Peng Ye, Botian Shi, Yu Qiao, Junchi Yan, Bo Zhang
 
 [[**Project**]]()[[**Paper**]](https://arxiv.org/pdf/2309.11268)
-- introduce StructChart, a novel framework that leverages Structured Triplet Representations (STR) to achieve a unified and label-efficient approach to chart perception and reasoning tasks.
+- Introduce StructChart, a novel framework that leverages Structured Triplet Representations (STR) to achieve a unified and label-efficient approach to chart perception and reasoning tasks.
 </div>
 </div>
 
