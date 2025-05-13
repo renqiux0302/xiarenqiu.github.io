@@ -285,7 +285,7 @@ Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Jiakang Yuan, Hongbin Zho
 
 <h2 id="-internships">💻 Internships</h2>
 
-- *2024.10 - Now*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
+- *2023.03 - Now*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
 
 <div style='margin-top: 30pt'></div>
 
