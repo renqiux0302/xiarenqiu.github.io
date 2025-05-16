@@ -38,6 +38,7 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 <div style='margin-top: 30pt'></div>
 
 <h2 id="-news">🔥 News</h2>
+  - <p style='text-align:justify'><i>2025.02</i>: &nbsp;🎉🎉 One paper (SurveyForge) is accepted by <font color="red">ACL 2025</font>. </p>
   - <p style='text-align:justify'><i>2025.02</i>: &nbsp;🎉🎉 One paper (CDM) is accepted by <font color="red">CVPR 2025</font>. </p>
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <font color="red">ICLR 2025</font>.</p>
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (LaTexNet) is accepted by <font color="red">ICASSP 2025</font>. </p>
@@ -82,9 +83,21 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 <div id="publications" style="display: block; margin-top: 10px;">
 <!-- publications -->
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cdm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/surveyforge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing](https://arxiv.org/abs/2503.04629)
+
+Xiangchao Yan<sup>\*</sup>, Shiyang Feng<sup>\*</sup>, Jiakang Yuan, **<u>Renqiu Xia</u>**, Bin Wang, Bo Zhang, Lei Bai
+
+[[**Project**]](https://github.com/Alpha-Innovator/SurveyForge)[[**Paper**]](https://arxiv.org/abs/2503.04629)
+- Propose SurveyForge which can automatically generate and refine the content of survey.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cdm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [Image Over Text: Transforming Formula Recognition Evaluation with Character Detection Matching](https://arxiv.org/pdf/2409.03643)
 
 Bin Wang<sup>\*</sup>, Fan Wu<sup>\*</sup>, Linke Ouyang<sup>\*</sup>, Zhuangcheng Gu, Rui Zhang, **<u>Renqiu Xia</u>**, Botian Shi, Bo Zhang, Conghui He
@@ -192,18 +205,6 @@ Daocheng Fu<sup>\*</sup>, Zijun Chen<sup>\*</sup>, **<u>Renqiu Xia</u>**<sup>\*<
 
 [[**Project**]]()[[**Paper**]](https://arxiv.org/pdf/2504.15780)
 -  Propose a scalable data engine called TrustGeoGen for geometric problem generation, with formal verification to provide a principled benchmark.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/surveyforge.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing](https://arxiv.org/abs/2503.04629)
-
-Xiangchao Yan<sup>\*</sup>, Shiyang Feng<sup>\*</sup>, Jiakang Yuan, **<u>Renqiu Xia</u>**, Bin Wang, Bo Zhang, Lei Bai
-
-[[**Project**]](https://github.com/Alpha-Innovator/SurveyForge)[[**Paper**]](https://arxiv.org/abs/2503.04629)
-- Propose SurveyForge which can automatically generate and refine the content of survey.
 </div>
 </div>
 
