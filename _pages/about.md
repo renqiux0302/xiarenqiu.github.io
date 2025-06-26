@@ -38,6 +38,7 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 <div style='margin-top: 30pt'></div>
 
 <h2 id="-news">🔥 News</h2>
+  - <p style='text-align:justify'><i>2025.02</i>: &nbsp;🎉🎉 One paper (Chimera) is accepted by <font color="red">ICCV 2025</font>. </p>
   - <p style='text-align:justify'><i>2025.02</i>: &nbsp;🎉🎉 One paper (SurveyForge) is accepted by <font color="red">ACL 2025</font>. </p>
   - <p style='text-align:justify'><i>2025.02</i>: &nbsp;🎉🎉 One paper (CDM) is accepted by <font color="red">CVPR 2025</font>. </p>
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <font color="red">ICLR 2025</font>.</p>
@@ -82,6 +83,18 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 
 <div id="publications" style="display: block; margin-top: 10px;">
 <!-- publications -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/chimera.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Chimera: Improving Generalist Model with Domain-Specific Experts](https://arxiv.org/abs/2412.05983)
+
+Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Jiakang Yuan, Hongbin Zhou, **<u>Renqiu Xia</u>**, Renrui Zhang, Lei Bai, Song Mao, Bin Wang, Aojun Zhou, Botian Shi, Tao Chen, Bo Zhang, Xiangyu Yue
+
+[[**Project**]](https://alpha-innovator.github.io/chimera_page/)[[**Paper**]](https://arxiv.org/abs/2412.05983)
+- a scalable and low-cost multi-modal pipeline designed to boost the ability of existing LMMs with domain-specific experts.
+</div>
+</div>
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/surveyforge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -205,18 +218,6 @@ Daocheng Fu<sup>\*</sup>, Zijun Chen<sup>\*</sup>, **<u>Renqiu Xia</u>**<sup>\*<
 
 [[**Project**]]()[[**Paper**]](https://arxiv.org/pdf/2504.15780)
 -  Propose a scalable data engine called TrustGeoGen for geometric problem generation, with formal verification to provide a principled benchmark.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/chimera.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Chimera: Improving Generalist Model with Domain-Specific Experts](https://arxiv.org/abs/2412.05983)
-
-Tianshuo Peng<sup>\*</sup>, Mingsheng Li<sup>\*</sup>, Jiakang Yuan, Hongbin Zhou, **<u>Renqiu Xia</u>**, Renrui Zhang, Lei Bai, Song Mao, Bin Wang, Aojun Zhou, Botian Shi, Tao Chen, Bo Zhang, Xiangyu Yue
-
-[[**Project**]](https://alpha-innovator.github.io/chimera_page/)[[**Paper**]](https://arxiv.org/abs/2412.05983)
-- a scalable and low-cost multi-modal pipeline designed to boost the ability of existing LMMs with domain-specific experts.
 </div>
 </div>
 
