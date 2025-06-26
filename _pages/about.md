@@ -38,8 +38,8 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 <div style='margin-top: 30pt'></div>
 
 <h2 id="-news">🔥 News</h2>
-  - <p style='text-align:justify'><i>2025.02</i>: &nbsp;🎉🎉 One paper (Chimera) is accepted by <font color="red">ICCV 2025</font>. </p>
-  - <p style='text-align:justify'><i>2025.02</i>: &nbsp;🎉🎉 One paper (SurveyForge) is accepted by <font color="red">ACL 2025</font>. </p>
+  - <p style='text-align:justify'><i>2025.06</i>: &nbsp;🎉🎉 One paper (Chimera) is accepted by <font color="red">ICCV 2025</font>. </p>
+  - <p style='text-align:justify'><i>2025.06</i>: &nbsp;🎉🎉 One paper (SurveyForge) is accepted by <font color="red">ACL 2025</font>. </p>
   - <p style='text-align:justify'><i>2025.02</i>: &nbsp;🎉🎉 One paper (CDM) is accepted by <font color="red">CVPR 2025</font>. </p>
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <font color="red">ICLR 2025</font>.</p>
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (LaTexNet) is accepted by <font color="red">ICASSP 2025</font>. </p>
