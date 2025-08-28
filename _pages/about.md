@@ -22,8 +22,9 @@ redirect_from:
 <h2 id="about-me">About Me</h2>
 
   <div style='width: 95%; vertical-align: middle; margin-left: 3%'>
-  I am final-year Ph.D. student majoring in Computer Science at Shanghai Jiao Tong University, under the supervision of Professor Weijia Jia. I am also honored to be guided by Dr. Bo Zhang from the Shanghai Artificial Intelligence Laboratory.
-My research focuses on large language models, multimodal learning, and AIGC. I've delved in document understanding and chart analysis using multimodal large language models, along with mathematical reasoning with formal languages. I'm also exploring how multi-agent systems can drive automated scientific research.
+  I am a Tenure-Track Assistant Professor at the School of Artificial Intelligence, Shanghai Jiao Tong University. I received my Ph.D. in Computer Science from Shanghai Jiao Tong University, where I was fortunate to be advised by Professor Weijia Jia and Junchi Yan. I also benefited greatly from the guidance of Dr. Bo Zhang from the Shanghai Artificial Intelligence Laboratory during my doctoral research.
+
+  My research focuses on large language models, multimodal learning, and AIGC. Specifically, I have delved into document understanding and chart analysis using multimodal large language models, along with mathematical reasoning with formal languages. I am also exploring how multi-agent systems can drive automated scientific research.
   </div>
 </div>
 
@@ -38,12 +39,13 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 <div style='margin-top: 30pt'></div>
 
 <h2 id="-news">🔥 News</h2>
+  - <p style='text-align:justify'><i>2025.08</i>: &nbsp;🎉🎉 One paper (ChartX) is accepted by <font color="red">IEEE Transactions on Image Processing (TIP)</font>. </p>
   - <p style='text-align:justify'><i>2025.06</i>: &nbsp;🎉🎉 One paper (Chimera) is accepted by <font color="red">ICCV 2025</font>. </p>
   - <p style='text-align:justify'><i>2025.06</i>: &nbsp;🎉🎉 One paper (SurveyForge) is accepted by <font color="red">ACL 2025</font>. </p>
   - <p style='text-align:justify'><i>2025.02</i>: &nbsp;🎉🎉 One paper (CDM) is accepted by <font color="red">CVPR 2025</font>. </p>
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (GeoX) is accepted by <font color="red">ICLR 2025</font>.</p>
   - <p style='text-align:justify'><i>2024.12</i>: &nbsp;🎉🎉 One paper (LaTexNet) is accepted by <font color="red">ICASSP 2025</font>. </p>
-  - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 One papers (AdaptiveDiffusion) is accepted by <font color="red">NeurIPS 2024</font>. </p>
+  - <p style='text-align:justify'><i>2024.09</i>: &nbsp;🎉🎉 One paper (AdaptiveDiffusion) is accepted by <font color="red">NeurIPS 2024</font>. </p>
   - <p style='text-align:justify'><i>2024.07</i>: &nbsp;🎉🎉 One paper (Once-for-Both) is accepted by <font color="red">CVPR 2024</font>. </p>
   - <p style='text-align:justify'><i>2024.01</i>: &nbsp;🎉🎉 One paper (ReSimAD) is accepted by <font color="red">ICLR 2024</font>. </p>
   - <p style='text-align:justify'><i>2023.12</i>: &nbsp;🎉🎉 One paper (EASInst) is accepted by <font color="red">ICASSP 2024</font>. </p>
@@ -83,6 +85,18 @@ My research focuses on large language models, multimodal learning, and AIGC. I'v
 
 <div id="publications" style="display: block; margin-top: 10px;">
 <!-- publications -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/chartx.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning](https://arxiv.org/pdf/2402.12185)
+
+**<u>Renqiu Xia</u>**<sup>\*</sup>, Bo Zhang<sup>\*</sup>, Hancheng Ye<sup>\*</sup>, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Peng Ye, Min Dou, Botian Shi, Junchi Yan, Yu Qiao
+
+[[**Project**]](https://github.com/Alpha-Innovator/ChartVLM)[[**Paper**]](https://arxiv.org/pdf/2402.12185)
+- Construct ChartX, a multi-modal evaluation set covering 18 chart types and develop ChartVLM to offer a new perspective on handling multi-modal tasks that strongly depend on interpretable patterns.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/chimera.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -230,18 +244,6 @@ Daocheng Fu<sup>\*</sup>, Zijun Chen<sup>\*</sup>, **<u>Renqiu Xia</u>**<sup>\*<
 
 [[**Project**]](https://github.com/Alpha-Innovator/DocGenome)[[**Paper**]](https://arxiv.org/pdf/2406.11633)
 - Present DocGenome, a structured document benchmark constructed by annotating 500K scientific documents from 153 disciplines in the arXiv open-access community, using our custom auto-labeling pipeline.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/chartx.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning](https://arxiv.org/pdf/2402.12185)
-
-**<u>Renqiu Xia</u>**<sup>\*</sup>, Bo Zhang<sup>\*</sup>, Hancheng Ye<sup>\*</sup>, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Peng Ye, Min Dou, Botian Shi, Junchi Yan, Yu Qiao
-
-[[**Project**]](https://github.com/Alpha-Innovator/ChartVLM)[[**Paper**]](https://arxiv.org/pdf/2402.12185)
-- Construct ChartX, a multi-modal evaluation set covering 18 chart types and develop ChartVLM to offer a new perspective on handling multi-modal tasks that strongly depend on interpretable patterns.
 </div>
 </div>
 
