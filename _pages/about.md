@@ -87,6 +87,41 @@ redirect_from:
 
 <div id="publications" style="display: block; margin-top: 10px;">
 <!-- publications -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/har.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GeoBench: Rethinking Multimodal Geometric Problem-Solving via Hierarchical Evaluation](https://openreview.net/forum?id=pcmgEGVaZH&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))
+
+Yuan Feng<sup>\*</sup>, Yue Yang<sup>\*</sup>, Xiaohan He<sup>\*</sup>, Jiatong Zhao, Jianlong Chen, Daocheng Fu, Qi Liu, **<u>Renqiu Xia</u><sup>\✉</sup>**, Bo Zhang, Junchi Yan<sup>\✉</sup>
+
+[[**Project**]](https://github.com/Purewhite2019/har_copa_main)[[**Paper**]](https://openreview.net/forum?id=pcmgEGVaZH&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))
+- Present GeoBench, a hierarchical benchmark featuring four reasoning levels in geometric problem-solving: Visual Perception, Goal-Oriented Planning, Rigorous Theorem Application, and Self-Reflective Backtracking. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/har.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bootstrapping Hierarchical Autoregressive Formal Reasoner with Chain-of-Proxy-Autoformalization](https://openreview.net/forum?id=2Xn8h68mP3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions))
+
+Qi Liu, Xinhao Zheng, **<u>Renqiu Xia</u>**, Qinxiang Cao, Junchi Yan
+
+[[**Project**]](https://github.com/Purewhite2019/har_copa_main)[[**Paper**]](https://openreview.net/forum?id=2Xn8h68mP3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FConference%2FAuthors%23your-submissions))
+- Propose HAR (Hierarchical Autoregressive Formal Reasoner), a novel reasoning pipeline. HAR decouples informal-aligned drafting and detailed proving, and formulates solution construction as autoregressive generation with per-step feedback. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (oral)</div><img src='images/risebench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing](https://openreview.net/forum?id=T3UksaPK64&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FDatasets_and_Benchmarks_Track%2FAuthors%23your-submissions))
+
+Xiangyu Zhao<sup>\*</sup>, Peiyuan Zhang<sup>\*</sup>, Kexian Tang<sup>\*</sup>, Xiaorong Zhu<sup>\*</sup>, Hao Li, Wenhao Chai, Zicheng Zhang, **<u>Renqiu Xia</u>**, Guangtao Zhai, Junchi Yan, Hua Yang, Xue Yang, Haodong Duan
+
+[[**Project**]](https://github.com/PhoenixZ810/RISEBench)[[**Paper**]](https://openreview.net/forum?id=T3UksaPK64&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2025%2FDatasets_and_Benchmarks_Track%2FAuthors%23your-submissions))
+- Introduce RISEBench, the first benchmark for evaluating Reasoning-Informed viSual Editing (RISE). RISEBench focuses on four key reasoning categories: Temporal, Causal, Spatial, and Logical Reasoning.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/chartx.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
