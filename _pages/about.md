@@ -87,15 +87,27 @@ redirect_from:
 
 <div id="publications" style="display: block; margin-top: 10px;">
 <!-- publications -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/har.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/geobench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GeoBench: Rethinking Multimodal Geometric Problem-Solving via Hierarchical Evaluation](https://openreview.net/forum?id=pcmgEGVaZH&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))
 
-Yuan Feng<sup>\*</sup>, Yue Yang<sup>\*</sup>, Xiaohan He<sup>\*</sup>, Jiatong Zhao, Jianlong Chen, Daocheng Fu, Qi Liu, **<u>Renqiu Xia</u><sup>\✉</sup>**, Bo Zhang, Junchi Yan<sup>\✉</sup>
+Yuan Feng<sup>\*</sup>, Yue Yang<sup>\*</sup>, Xiaohan He<sup>\*</sup>, Jiatong Zhao, Jianlong Chen, Daocheng Fu, Qi Liu, **<u>Renqiu Xia</u><sup>✉</sup>**, Bo Zhang, Junchi Yan<sup>✉</sup>
 
-[[**Project**]](https://github.com/Purewhite2019/har_copa_main)[[**Paper**]](https://openreview.net/forum?id=pcmgEGVaZH&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))
+[[**Project**]](https://github.com/FrontierX-Lab/GeoBench)[[**Paper**]](https://openreview.net/forum?id=pcmgEGVaZH&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))
 - Present GeoBench, a hierarchical benchmark featuring four reasoning levels in geometric problem-solving: Visual Perception, Goal-Oriented Planning, Rigorous Theorem Application, and Self-Reflective Backtracking. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/fpg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Let's Explore Step by Step: Generating Provable Formal Statements with Deductive Exploration](https://openreview.net/forum?id=Njrkeo3DiJ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))
+
+Qi Liu, Kangjie Bao, Yue Yang, Xinhao Zheng, **<u>Renqiu Xia</u>**, Qinxiang Cao, Junchi Yan
+
+[[**Project**]](https://openreview.net/forum?id=Njrkeo3DiJ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))[[**Paper**]](https://openreview.net/forum?id=Njrkeo3DiJ&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))
+- Propose the framework of DExploration (Deductive Exploration), which formulates problem synthesis as a step-by-step exploration process instead of one-shot generation.
 </div>
 </div>
 
@@ -247,6 +259,18 @@ Bo Zhang<sup>\*</sup>, Xinyu Cai<sup>\*</sup>, Jiakang Yuan, Donglin Yang, Jianf
 
 <!-- Preprints -->
 <div id="preprints" style="display: none; margin-top: 10px;">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/sgvr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Milestones over Outcome: Unlocking Geometric Reasoning with Sub-Goal Verifiable Reward](https://arxiv.org/pdf/2601.05073)
+
+Jianlong Chen, Daocheng Fu, Shengze Xu, Jiawei Chen, Yuan Feng, Yue Yang, Junchi Yan, Hongyuan Zha, **<u>Renqiu Xia</u><sup>✉</sup>**
+
+[[**Project**]](https://github.com/FrontierX-Lab/SGVR)[[**Paper**]](https://arxiv.org/pdf/2601.05073)
+-  Propose the Sub-Goal Verifiable Reward (SGVR) framework, which replaces sparse signals with dense
+rewards based on the Skeleton Rate.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/fps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
