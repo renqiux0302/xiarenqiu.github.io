@@ -39,6 +39,8 @@ redirect_from:
 <div style='margin-top: 30pt'></div>
 
 <h2 id="-news">🔥 News</h2>
+  - <p style='text-align:justify'><i>2026.01</i>: &nbsp;🎉🎉 Two papers (FPG and GeoBench) are accepted by <font color="red">ICLR 2026</font>. </p>
+  - <p style='text-align:justify'><i>2025.09</i>: &nbsp;🎉🎉 Two papers (HAR and RISEBench) are accepted by <font color="red">NeurIPS 2025</font>. </p>
   - <p style='text-align:justify'><i>2025.08</i>: &nbsp;🎉🎉 One paper (ChartX) is accepted by <font color="red">IEEE Transactions on Image Processing (TIP)</font>. </p>
   - <p style='text-align:justify'><i>2025.06</i>: &nbsp;🎉🎉 One paper (Chimera) is accepted by <font color="red">ICCV 2025</font>. </p>
   - <p style='text-align:justify'><i>2025.06</i>: &nbsp;🎉🎉 One paper (SurveyForge) is accepted by <font color="red">ACL 2025</font>. </p>
@@ -91,7 +93,7 @@ redirect_from:
 
 [ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning](https://arxiv.org/pdf/2402.12185)
 
-**<u>Renqiu Xia</u>**<sup>\*</sup>, Bo Zhang<sup>\*</sup>, Hancheng Ye<sup>\*</sup>, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Peng Ye, Min Dou, Botian Shi, Junchi Yan, Yu Qiao
+**<u>Renqiu Xia</u>**, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Botian Shi, Junchi Yan, Bo Zhang
 
 [[**Project**]](https://github.com/Alpha-Innovator/ChartVLM)[[**Paper**]](https://arxiv.org/pdf/2402.12185)
 - Construct ChartX, a multi-modal evaluation set covering 18 chart types and develop ChartVLM to offer a new perspective on handling multi-modal tasks that strongly depend on interpretable patterns.
