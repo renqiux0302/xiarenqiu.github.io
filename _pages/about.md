@@ -342,7 +342,7 @@ Daocheng Fu<sup>\*</sup>, Zijun Chen<sup>\*</sup>, **<u>Renqiu Xia</u>**<sup>\*<
 </script>
 
 <h2 id="-educations">📖 Educations</h2>
-- *2021.04 - Now*, Ph.D in Computer Science, Shanghai Jiao Tong University. 
+- *2021.04 - 2025.06*, Ph.D in Computer Science, Shanghai Jiao Tong University. 
 - *2019.02 - 2020.12*, Master in Electrical Engineering (Distinction), University of Melbourne.
 - *2014.09 - 2018.06*, Bachelor in Instrument for Measurement & Control (Pilot Program), Jilin University.
 
@@ -350,10 +350,10 @@ Daocheng Fu<sup>\*</sup>, Zijun Chen<sup>\*</sup>, **<u>Renqiu Xia</u>**<sup>\*<
 
 <h2 id="-internships">💻 Internships</h2>
 
-- *2023.03 - Now*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
+- *2023.03 - 2025.06*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
 
 <div style='margin-top: 30pt'></div>
 
 # 📝 Academic Services
 
-- Reviewer of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, KDD, TKDE.
+- Reviewer of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, ACL, KDD, TKDE，TIP.
