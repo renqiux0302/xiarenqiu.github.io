@@ -356,4 +356,4 @@ Daocheng Fu<sup>\*</sup>, Zijun Chen<sup>\*</sup>, **<u>Renqiu Xia</u>**<sup>\*<
 
 # 📝 Academic Services
 
-- Reviewer of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, ACL, KDD, TKDE，TIP.
+- Reviewer of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, ACL, KDD, TKDE, TIP.
