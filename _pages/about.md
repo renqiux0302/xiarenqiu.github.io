@@ -39,7 +39,7 @@ redirect_from:
 <div style='margin-top: 30pt'></div>
 
 <h2 id="-news">🔥 News</h2>
-  - <p style='text-align:justify'><i>2026.03</i>: &nbsp;🎉🎉 One papers (StructChart) is accepted by <font color="red">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>. </p>
+  - <p style='text-align:justify'><i>2026.03</i>: &nbsp;🎉🎉 One paper (StructChart) is accepted by <font color="red">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>. </p>
   - <p style='text-align:justify'><i>2026.01</i>: &nbsp;🎉🎉 Two papers (FPG and GeoBench) are accepted by <font color="red">ICLR 2026</font>. </p>
   - <p style='text-align:justify'><i>2025.09</i>: &nbsp;🎉🎉 Two papers (HAR and RISEBench) are accepted by <font color="red">NeurIPS 2025</font>. </p>
   - <p style='text-align:justify'><i>2025.08</i>: &nbsp;🎉🎉 One paper (ChartX) is accepted by <font color="red">IEEE Transactions on Image Processing (TIP)</font>. </p>
