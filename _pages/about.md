@@ -39,6 +39,7 @@ redirect_from:
 <div style='margin-top: 30pt'></div>
 
 <h2 id="-news">🔥 News</h2>
+  - <p style='text-align:justify'><i>2026.03</i>: &nbsp;🎉🎉 One papers (StructChart) is accepted by <font color="red">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</font>. </p>
   - <p style='text-align:justify'><i>2026.01</i>: &nbsp;🎉🎉 Two papers (FPG and GeoBench) are accepted by <font color="red">ICLR 2026</font>. </p>
   - <p style='text-align:justify'><i>2025.09</i>: &nbsp;🎉🎉 Two papers (HAR and RISEBench) are accepted by <font color="red">NeurIPS 2025</font>. </p>
   - <p style='text-align:justify'><i>2025.08</i>: &nbsp;🎉🎉 One paper (ChartX) is accepted by <font color="red">IEEE Transactions on Image Processing (TIP)</font>. </p>
@@ -87,6 +88,19 @@ redirect_from:
 
 <div id="publications" style="display: block; margin-top: 10px;">
 <!-- publications -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/structchart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[StructChart: On the Schema, Metric, and Augmentation for Visual Chart Understanding](https://arxiv.org/pdf/2309.11268)
+
+**<u>Renqiu Xia</u>**<sup>\*</sup>, Haoyang Peng, Hancheng Ye, Mingsheng Li, Xiangchao Yan, Peng Ye, Botian Shi, Yu Qiao, Junchi Yan, Bo Zhang
+
+[[**Project**]]()[[**Paper**]](https://arxiv.org/pdf/2309.11268)
+- Introduce StructChart, a novel framework that leverages Structured Triplet Representations (STR) to achieve a unified and label-efficient approach to chart perception and reasoning tasks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/geobench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -305,18 +319,6 @@ Daocheng Fu<sup>\*</sup>, Zijun Chen<sup>\*</sup>, **<u>Renqiu Xia</u>**<sup>\*<
 
 [[**Project**]](https://github.com/Alpha-Innovator/DocGenome)[[**Paper**]](https://arxiv.org/pdf/2406.11633)
 - Present DocGenome, a structured document benchmark constructed by annotating 500K scientific documents from 153 disciplines in the arXiv open-access community, using our custom auto-labeling pipeline.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/structchart.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[StructChart: On the Schema, Metric, and Augmentation for Visual Chart Understanding](https://arxiv.org/pdf/2309.11268)
-
-**<u>Renqiu Xia</u>**<sup>\*</sup>, Haoyang Peng, Hancheng Ye, Mingsheng Li, Xiangchao Yan, Peng Ye, Botian Shi, Yu Qiao, Junchi Yan, Bo Zhang
-
-[[**Project**]]()[[**Paper**]](https://arxiv.org/pdf/2309.11268)
-- Introduce StructChart, a novel framework that leverages Structured Triplet Representations (STR) to achieve a unified and label-efficient approach to chart perception and reasoning tasks.
 </div>
 </div>
 
